@@ -1,0 +1,14 @@
+n1 = float(input("digite o primero numero: "))
+n2 = float(input("digite o segundo numero: "))
+
+print("Adição")
+print(n1+n2)
+
+print("Subtração")
+print(n1-n2)
+
+print("Multiplicação")
+print(n1*n2)
+
+print("Divisão")
+print(n1/n2)

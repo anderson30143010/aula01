@@ -1,0 +1,5 @@
+listnumbers=[8,9,7]
+
+print((8+9+7)/3)
+print(sum(listnumbers)/len(listnumbers))
+
